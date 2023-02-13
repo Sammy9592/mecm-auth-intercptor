@@ -1,6 +1,5 @@
 package com.sl.mecm.auth.intercptor.constant;
 
-import java.util.EnumMap;
 import java.util.EnumSet;
 
 public enum AuthType {

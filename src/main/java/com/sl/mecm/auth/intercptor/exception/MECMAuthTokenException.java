@@ -2,8 +2,6 @@ package com.sl.mecm.auth.intercptor.exception;
 
 import com.sl.mecm.core.commons.entity.AppResponse;
 
-import java.io.Serializable;
-
 public class MECMAuthTokenException extends RuntimeException{
 
     private final String code;
