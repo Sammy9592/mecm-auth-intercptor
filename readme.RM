@@ -1,0 +1,6 @@
+# entitlement samples
+## SEA
+ {"authType":"SEA","source":"user-service","sessionToken":""}
+
+## CLA
+ {"authType":"CLA","source":"user-idv","secret":"f510c373d47747498b7a176bf4d9a0bb"}
